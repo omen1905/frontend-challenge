@@ -1,0 +1,1 @@
+export { AllCats } from './AllCats';

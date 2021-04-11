@@ -1,0 +1,43 @@
+.App {
+}
+
+.Link {
+    padding: 23px 15px 23px 15px;
+    color: rgba(255, 255, 255, 0.7);
+    cursor: default;
+}
+
+.LinkActive {
+    padding: 23px 15px 23px 15px;
+    color:  #FFFFFF;
+    cursor: default;
+    background-color:  #1E88E5;
+}
+
+.Link:hover {
+    padding: 23px 15px 23px 15px;
+    color: #FFFFFF;
+    cursor: default;
+}
+
+.Menu {
+    /* Primary / 500 - Accent */
+
+    padding-left: 75px;
+    display: flex;
+    height: 64px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    /* Primary / 500 - Accent */
+    background: #2196F3;
+    /* horizontal sheet */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.24);
+}
+
+.Components {
+    margin: 100px 62px 0px 62px;
+}
